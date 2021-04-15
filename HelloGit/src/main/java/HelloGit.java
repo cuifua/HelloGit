@@ -11,5 +11,6 @@ public class HelloGit
         System.out.println("克隆下来的项目添加");
         System.out.println("又在线更新");
         System.out.println("又一次在线更新");
+        System.out.println("更改路径以后再试一下能不能成功");
     }
 }
