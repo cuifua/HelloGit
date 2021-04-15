@@ -13,5 +13,6 @@ public class HelloGit
         System.out.println("又一次在线更新");
         System.out.println("更改路径以后再试一下能不能成功");
         System.out.println("再次更改路径以后再试一下能不能成功");
+        System.out.println("D盘更改路径以后再试一下能不能成功");
     }
 }
